@@ -15,7 +15,7 @@ With PWAs, I deliver app-like experiences while keeping accessibility, performan
 
 ## 🛠 Tech & Tools
 
-- **Frontend:** React.js, HTML5, CSS3, Tailwind, JavaScript, TypeScript  
+- **Frontend:** React.js, Next.js, Vue.js, Thymeleaf, HTML5, CSS3, SCSS, Tailwind, JavaScript, TypeScript  
 - **Backend:** Node.js, Express, Spring Boot, Python, Java  
 - **Databases:** MongoDB, PostgreSQL, MySQL, H2  
 - **Other Skills:** REST APIs, JWT Authentication, CI/CD, Agile/Scrum  
