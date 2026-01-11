@@ -46,6 +46,7 @@ With PWAs, I deliver app-like experiences while keeping accessibility, performan
 ![CI/CD](https://img.shields.io/badge/CI/CD-00C1D4?style=for-the-badge)
 ![Agile](https://img.shields.io/badge/Agile-FF6600?style=for-the-badge)
 ![Scrum](https://img.shields.io/badge/Scrum-6BA539?style=for-the-badge)
+![DevOps](https://img.shields.io/badge/DevOps-0A0A0A?style=for-the-badge&logo=devops&logoColor=white)
 ---
 
 ## 🚀 Projects / Published Works
