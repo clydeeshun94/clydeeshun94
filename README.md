@@ -58,12 +58,12 @@ Here are some of the key projects I’ve built. You can explore them live or see
    - **Tech:** Python, Hugging Face, Next.js  
    - **Description:** Upload images of plants and get fast, AI-powered disease detection insights. Ideal for agricultural monitoring and research.  
 
-2. **[The Backdoor](https://thebackdoor.onrender.com)**  
+2. **[The Bakdor](https://bakdor.netlify.app)**  
    - **Type:** Anonymous cryptocurrency auction platform using custom tokens  
    - **Tech:** Solidity, Ethereum, Hardhat, MongoDB  
    - **Description:** Participate in secure, decentralized auctions with privacy and blockchain-backed transparency.  
 
-3. **[Blvk.Market](https://blvkmarket.onrender.com)**  
+3. **[Blvk.Market](https://blvkmarket.netlify.app)**  
    - **Type:** Full-featured e-commerce marketplace  
    - **Tech:** Next.js, Node.js, MongoDB  
    - **Description:** A complete platform for buying and selling goods online, featuring product management, order tracking, and user-friendly interfaces.  
