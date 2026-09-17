@@ -51,7 +51,7 @@ With PWAs, I deliver app-like experiences while keeping accessibility, performan
 
 ## 🚀 Projects / Published Works
 
-Here are some of the key projects I’ve built. You can explore them live or see more details on my portfolio: [thebigint.netlify.app](https://thebigint.netlify.app)  
+Here are some of the key projects I’ve built. You can explore them live or see more details on my portfolio: [clydeeshun.netlify.app](https://clydeeshun.netlify.app)  
 
 1. **[Koomli](https://koomli.netlify.app)**  
    - **Type:** AI platform for detecting plant diseases from uploaded images  
