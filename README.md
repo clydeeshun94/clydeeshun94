@@ -71,10 +71,10 @@ Here are some of the key projects I’ve built. You can explore them live or see
 
 ---
 
-##............. Currently Exploring
+## ..Uhmm......... Currently Exploring
 
 - Advanced AI integrations in web applications  ( being a bit lazy about that bit, because why is everything suddenly "AI". sigh..)
 - better marketing practices
 - Go lang, because why not? 
--   
+ 
  
